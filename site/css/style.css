@@ -10,6 +10,8 @@ h1 {
 h2 {
    font-size: 28px;
    padding: 10px;
+   background-color: black;
+   color: white;
 }
 
 h3 { 
@@ -34,6 +36,6 @@ p{
    font-style: italic;
 }
 
-main {
+span {
    padding: 10px;
 }
