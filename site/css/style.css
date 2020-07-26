@@ -24,3 +24,16 @@ ol {
 li {
    padding: 5px;
 }
+img {
+   padding: 10px;
+}
+
+p{
+   padding: 10px;
+   font-size: 12px;
+   font-style: italic;
+}
+
+main {
+   padding: 10px;
+}
